@@ -6,7 +6,7 @@
     "email": "SergioDevS@proton.me",
     "phone": "+34 688888888",
     "url": "https://github.com/xSergioBG",
-    "summary": "Full Stack Developer. Vivo en Valencia, España. He trabajado en diferentes entornos: asesoramiento y desarrollo de start-ups, administrador de sistemas, programador web.",
+    "summary": "I am a Full Stack Developer based in Valencia, Spain, with diverse experience across various professional domains. My background encompasses consulting for startups, system administration, and web programming. I bring a versatile skill set and a passion for creating innovative solutions.",
     "location": {
       "address": "",
       "postalCode": "46950",
@@ -34,36 +34,36 @@
   },
   "work": [
     {
-      "name": "Empresa",
-      "position": "Posición de la empresa",
-      "url": "https://www.google.es",
-      "startDate": "2021-01-01",
-      "endDate": null,
+      "name": "Infoquip",
+      "position": "System technician",
+      "url": "https://infoquip.com/htm/es/inicio.html",
+      "startDate": "2016-03-01",
+      "endDate": "2016-6-01",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec velit vel justo volutpat cursus. Sed aliquet, nulla ut luctus blandit, dolor velit lobortis purus, non varius velit purus ac eros. Cras sed ligula eget neque lacinia fermentum. ",
-      "highlights": ["Started the company"]
+      "highlights": ["Prácticas"]
     },
     {
-      "name": "Empresa",
-      "position": "Posición de la empresa",
-      "url": "https://www.google.es",
-      "startDate": "2021-01-01",
-      "endDate": null,
+      "name": "Consum, S. Coop. Valenciana",
+      "position": "Systems engineer",
+      "url": "https://www.consum.es/",
+      "startDate": "2018-03-01",
+      "endDate": "2018-07-01",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec velit vel justo volutpat cursus. Sed aliquet, nulla ut luctus blandit, dolor velit lobortis purus, non varius velit purus ac eros. Cras sed ligula eget neque lacinia fermentum. ",
-      "highlights": ["Started the company"]
+      "highlights": ["Prácticas"]
     },
     {
-      "name": "Empresa",
-      "position": "Posición de la empresa",
-      "url": "https://www.google.es",
-      "startDate": "2021-01-01",
+      "name": "LEINN - Mondragon Unibertsitatea",
+      "position": "Startup Consultant & Multiplatform Developer",
+      "url": "https://www.mondragon.edu/es/grado-liderazgo-emprendedor-innovacion",
+      "startDate": "2023-11-21",
       "endDate": null,
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec velit vel justo volutpat cursus. Sed aliquet, nulla ut luctus blandit, dolor velit lobortis purus, non varius velit purus ac eros. Cras sed ligula eget neque lacinia fermentum. ",
-      "highlights": ["Started the company"]
+      "highlights": ["Prácticas"]
     }
   ],
   "volunteer": [
     {
-      "organization": "Organization",
+      "organization": "ShopyAct",
       "position": "Volunteer",
       "url": "https://organization.com/",
       "startDate": "2012-01-01",
@@ -74,14 +74,44 @@
   ],
   "education": [
     {
-      "institution": "Florida Universitaria",
+      "institution": "Florida University",
       "url": "https://www.floridauniversitaria.es/",
-      "area": "Desarrollador de Aplicaciones Multiplataforma",
+      "area": " Higher Technician in Multiplatform Application Development",
       "studyType": "Bachelor",
       "startDate": "2021-02-23",
       "endDate": "2023-02-23",
       "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": [""]
+    },
+    {
+      "institution": "Polytechnic University of Valencia",
+      "url": "https://www.upv.es/",
+      "area": "Bachelor's Degree in Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2019-02-23",
+      "endDate": "2021-02-23",
+      "score": "4.0",
+      "courses": [""]
+    },
+    {
+      "institution": "Florida University",
+      "url": "https://www.floridauniversitaria.es/",
+      "area": "Higher Technician in Computer Systems Administration",
+      "studyType": "Bachelor",
+      "startDate": "2017-02-23",
+      "endDate": "2019-02-23",
+      "score": "4.0",
+      "courses": ["Cisco CCNA"]
+    },
+    {
+      "institution": "Tame Formacion",
+      "url": "https://tameformacion.com/",
+      "area": "Technician in Microcomputer Systems and Networks",
+      "studyType": "Bachelor",
+      "startDate": "2015-02-23",
+      "endDate": "2017-02-23",
+      "score": "4.0",
+      "courses": [""]
     }
   ],
   "awards": [
