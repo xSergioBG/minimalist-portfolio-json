@@ -249,49 +249,57 @@
       "name": "React Boilerplate",
       "isActive": true,
       "description": "Boilerplate sencilla para iniciar rápidamente el desarrollo de aplicaciones React",
-      "highlights": ["Boilerplate", "En desarrollo"],
+      "highlights": ["Boilerplate", "Terminado"],
       "url": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE",
       "github": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE"
     },
     {
-      "name": "React Boilerplate",
+      "name": "React Native Stopwatch",
       "isActive": true,
-      "description": "Boilerplate sencilla para iniciar rápidamente el desarrollo de aplicaciones React",
-      "highlights": ["Boilerplate", "En desarrollo"],
-      "url": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE",
-      "github": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE"
+      "description": "Cronómetro sencillo desarrollado con React Native",
+      "highlights": ["Aplicación movil", "En desarrollo"],
+      "url": "https://github.com/xSergioBG/React-Native-Stopwatch",
+      "github": "https://github.com/xSergioBG/React-Native-Stopwatch"
     },
     {
-      "name": "React Boilerplate",
+      "name": "React Native Calculator",
       "isActive": true,
-      "description": "Boilerplate sencilla para iniciar rápidamente el desarrollo de aplicaciones React",
+      "description": "Calculadora sencilla desarrollada con React Native",
       "highlights": ["Boilerplate", "En desarrollo"],
-      "url": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE",
-      "github": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE"
+      "url": "https://github.com/xSergioBG/React-Native-Calculator",
+      "github": "https://github.com/xSergioBG/React-Native-Calculator"
     },
     {
-      "name": "React Boilerplate",
+      "name": "Algoritmo de cambio de color",
       "isActive": true,
-      "description": "Boilerplate sencilla para iniciar rápidamente el desarrollo de aplicaciones React",
+      "description": "Algoritmo de cambio de color para imágenes basado en el método K-means",
       "highlights": ["Boilerplate", "En desarrollo"],
-      "url": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE",
-      "github": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE"
+      "url": "https://github.com/xSergioBG/Color-Change-Algorithm-for-Images-Based-on-K-means-Method",
+      "github": "https://github.com/xSergioBG/Color-Change-Algorithm-for-Images-Based-on-K-means-Method"
     },
     {
-      "name": "React Boilerplate",
+      "name": "Landing page",
       "isActive": true,
-      "description": "Boilerplate sencilla para iniciar rápidamente el desarrollo de aplicaciones React",
+      "description": "Landing page con html y css puro",
       "highlights": ["Boilerplate", "En desarrollo"],
-      "url": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE",
-      "github": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE"
+      "url": "https://github.com/xSergioBG/000-LandingPage",
+      "github": "https://github.com/xSergioBG/000-LandingPage"
     },
     {
-      "name": "React Boilerplate",
+      "name": "Curso Java",
       "isActive": true,
-      "description": "Boilerplate sencilla para iniciar rápidamente el desarrollo de aplicaciones React",
+      "description": "Curso de Java con ejercicios y ejemplos de código",
       "highlights": ["Boilerplate", "En desarrollo"],
-      "url": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE",
-      "github": "https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE"
+      "url": "https://github.com/xSergioBG/CursoJava",
+      "github": "https://github.com/xSergioBG/CursoJava"
+    },
+    {
+      "name": "Curso Python",
+      "isActive": true,
+      "description": "Curso de Python con ejercicios y ejemplos de código",
+      "highlights": ["Boilerplate", "En desarrollo"],
+      "url": "https://github.com/xSergioBG/python-guide",
+      "github": "https://github.com/xSergioBG/python-guide"
     }
   ]
 }
